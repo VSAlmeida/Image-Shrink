@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.btn {
+  width: 100%;
+}
+
+.output {
+  margin-top: 40px;
+}
+
+#output-path {
+  font-weight: bold;
+}
